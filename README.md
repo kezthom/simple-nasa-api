@@ -1,4 +1,4 @@
- 🚀 Project: [NASA Photo of the Day] (https://htmlpreview.github.io/?https://github.com/kezthom/simple-nasa-api/blob/answer/index.html)
+ 🚀 Project: [NASA Photo of the Day (https://htmlpreview.github.io/?https://github.com/kezthom/simple-nasa-api/blob/answer/index.html)]
 
 
 <img width="1341" alt="Screenshot 2023-11-06 at 3 19 18 PM" src="https://github.com/kezthom/simple-nasa-api/assets/137250400/5b9d4371-0a24-4d66-b319-09f07f3e650f">
